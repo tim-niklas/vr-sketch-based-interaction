@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Undo">
+	<Stroke>
+		<Point X = "1093,816" Y = "1162,896" T = "0" Pressure = "0" />
+		<Point X = "1011,925" Y = "1130,449" T = "0" Pressure = "0" />
+		<Point X = "926,6428" Y = "1083,883" T = "0" Pressure = "0" />
+		<Point X = "870,2227" Y = "1015,451" T = "0" Pressure = "0" />
+		<Point X = "953,2294" Y = "966,2842" T = "0" Pressure = "0" />
+		<Point X = "1050,008" Y = "936,544" T = "0" Pressure = "0" />
+		<Point X = "1117,96" Y = "908,3721" T = "0" Pressure = "0" />
+		<Point X = "1206,61" Y = "872,0263" T = "0" Pressure = "0" />
+		<Point X = "1295,891" Y = "839,9199" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

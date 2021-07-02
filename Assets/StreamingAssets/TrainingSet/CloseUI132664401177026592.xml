@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "CloseUI">
+	<Stroke>
+		<Point X = "1476,294" Y = "1446,326" T = "0" Pressure = "0" />
+		<Point X = "1433,888" Y = "1418,527" T = "0" Pressure = "0" />
+		<Point X = "1382,985" Y = "1381,4" T = "0" Pressure = "0" />
+		<Point X = "1337,734" Y = "1345,453" T = "0" Pressure = "0" />
+		<Point X = "1288,968" Y = "1306,606" T = "0" Pressure = "0" />
+		<Point X = "1242,376" Y = "1269,762" T = "0" Pressure = "0" />
+		<Point X = "1196,889" Y = "1231,758" T = "0" Pressure = "0" />
+		<Point X = "1150,802" Y = "1194,32" T = "0" Pressure = "0" />
+		<Point X = "1107,166" Y = "1157,9" T = "0" Pressure = "0" />
+		<Point X = "1069,359" Y = "1125,599" T = "0" Pressure = "0" />
+		<Point X = "1042,437" Y = "1102,19" T = "0" Pressure = "0" />
+		<Point X = "1005,959" Y = "1070,383" T = "0" Pressure = "0" />
+		<Point X = "975,1301" Y = "1043,26" T = "0" Pressure = "0" />
+		<Point X = "943,0345" Y = "1014,529" T = "0" Pressure = "0" />
+		<Point X = "917,4168" Y = "991,2293" T = "0" Pressure = "0" />
+		<Point X = "891,8441" Y = "966,0316" T = "0" Pressure = "0" />
+		<Point X = "871,4244" Y = "943,6245" T = "0" Pressure = "0" />
+		<Point X = "844,3524" Y = "916,9368" T = "0" Pressure = "0" />
+		<Point X = "813,9719" Y = "886,2149" T = "0" Pressure = "0" />
+		<Point X = "793,2756" Y = "864,6172" T = "0" Pressure = "0" />
+		<Point X = "776,9029" Y = "847,8842" T = "0" Pressure = "0" />
+		<Point X = "760,5115" Y = "831,3052" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

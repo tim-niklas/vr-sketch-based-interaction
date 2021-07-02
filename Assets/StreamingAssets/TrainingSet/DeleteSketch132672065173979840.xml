@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "DeleteSketch">
+	<Stroke>
+		<Point X = "1089,395" Y = "1701,119" T = "0" Pressure = "0" />
+		<Point X = "1049,092" Y = "1702,721" T = "0" Pressure = "0" />
+		<Point X = "1006,49" Y = "1685,604" T = "0" Pressure = "0" />
+		<Point X = "959,0451" Y = "1663,862" T = "0" Pressure = "0" />
+		<Point X = "913,5054" Y = "1642,465" T = "0" Pressure = "0" />
+		<Point X = "872,4166" Y = "1617,688" T = "0" Pressure = "0" />
+		<Point X = "821,3368" Y = "1579,243" T = "0" Pressure = "0" />
+		<Point X = "782,1912" Y = "1545,841" T = "0" Pressure = "0" />
+		<Point X = "748,081" Y = "1509,654" T = "0" Pressure = "0" />
+		<Point X = "731,3638" Y = "1486,602" T = "0" Pressure = "0" />
+		<Point X = "841,6005" Y = "1539,34" T = "0" Pressure = "0" />
+		<Point X = "975,2681" Y = "1618,934" T = "0" Pressure = "0" />
+		<Point X = "1067,87" Y = "1654,381" T = "0" Pressure = "0" />
+		<Point X = "1094,425" Y = "1653,925" T = "0" Pressure = "0" />
+		<Point X = "1025,94" Y = "1612,688" T = "0" Pressure = "0" />
+		<Point X = "924,8701" Y = "1540,211" T = "0" Pressure = "0" />
+		<Point X = "878,6991" Y = "1481,801" T = "0" Pressure = "0" />
+		<Point X = "980,5402" Y = "1524,486" T = "0" Pressure = "0" />
+		<Point X = "1108,658" Y = "1578,191" T = "0" Pressure = "0" />
+		<Point X = "1176,675" Y = "1590,465" T = "0" Pressure = "0" />
+		<Point X = "1108,257" Y = "1551,226" T = "0" Pressure = "0" />
+		<Point X = "960,29" Y = "1453,497" T = "0" Pressure = "0" />
+		<Point X = "896,6171" Y = "1377,485" T = "0" Pressure = "0" />
+		<Point X = "965,889" Y = "1425,704" T = "0" Pressure = "0" />
+		<Point X = "1108,408" Y = "1491,523" T = "0" Pressure = "0" />
+		<Point X = "1195,858" Y = "1510,698" T = "0" Pressure = "0" />
+		<Point X = "1156,688" Y = "1476,661" T = "0" Pressure = "0" />
+		<Point X = "1053,33" Y = "1396,553" T = "0" Pressure = "0" />
+		<Point X = "987,1049" Y = "1334,975" T = "0" Pressure = "0" />
+		<Point X = "1034,607" Y = "1358,98" T = "0" Pressure = "0" />
+		<Point X = "1156,854" Y = "1414,453" T = "0" Pressure = "0" />
+		<Point X = "1232,547" Y = "1443,083" T = "0" Pressure = "0" />
+		<Point X = "1205,928" Y = "1417,888" T = "0" Pressure = "0" />
+		<Point X = "1110,729" Y = "1350,304" T = "0" Pressure = "0" />
+		<Point X = "1040,028" Y = "1295,12" T = "0" Pressure = "0" />
+		<Point X = "1060,718" Y = "1302,58" T = "0" Pressure = "0" />
+		<Point X = "1169,821" Y = "1365,515" T = "0" Pressure = "0" />
+		<Point X = "1240,396" Y = "1396,972" T = "0" Pressure = "0" />
+		<Point X = "1193,47" Y = "1369,861" T = "0" Pressure = "0" />
+		<Point X = "1107,998" Y = "1316,055" T = "0" Pressure = "0" />
+		<Point X = "1070,954" Y = "1287,951" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

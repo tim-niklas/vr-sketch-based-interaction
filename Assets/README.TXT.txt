@@ -1,0 +1,8 @@
+## VR SKETCHING TOOL WITH SKETCHBASED INTERACTION TO CONTROL THE APPLICATION
+
+# REQUIRMENTS
+Unity 2019.3.7f1
+Developed with SteamVR Plugin 2.0
+Tested with:
+	- Oculus Quest
+	- HTC VIVE Cosmus Elite

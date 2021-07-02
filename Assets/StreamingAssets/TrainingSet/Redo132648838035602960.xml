@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Redo">
+	<Stroke>
+		<Point X = "975,8489" Y = "1543,979" T = "0" Pressure = "0" />
+		<Point X = "1052,129" Y = "1532,039" T = "0" Pressure = "0" />
+		<Point X = "1125,743" Y = "1514,492" T = "0" Pressure = "0" />
+		<Point X = "1230,33" Y = "1485,512" T = "0" Pressure = "0" />
+		<Point X = "1297,616" Y = "1463,92" T = "0" Pressure = "0" />
+		<Point X = "1364,285" Y = "1430,653" T = "0" Pressure = "0" />
+		<Point X = "1352,08" Y = "1349,502" T = "0" Pressure = "0" />
+		<Point X = "1276,003" Y = "1290,202" T = "0" Pressure = "0" />
+		<Point X = "1195,467" Y = "1216,603" T = "0" Pressure = "0" />
+		<Point X = "1111,869" Y = "1150,274" T = "0" Pressure = "0" />
+		<Point X = "1053,533" Y = "1095,262" T = "0" Pressure = "0" />
+		<Point X = "998,442" Y = "1039,982" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>
